@@ -1,67 +1,43 @@
-# Acme Financial Dashboard
+**SStemp** is a starter react template and framework for rapid development of responsive, cross platform enterprise SaaS applications.   
 
-Welcome to Acme Financial Dashboard, a platform designed to streamline your financial management. This dashboard comes equipped with essential features for efficient user authentication, customer management, invoice tracking, and insightful revenue analysis.
-It builds upon the [Next.js Learn course](https://nextjs.org/learn/dashboard-app) by Vercel.
+The objective of the project is to create a seamless connection between design, development and deployment.  
 
-## Getting Started
+Based on a responsive web platform, we’ll be working on approaches that allows rapid applications of AI powered apps on de-jure web standards for design and development.
 
-Follow these steps to set up Acme Financial Dashboard on your local machine.
+Our Vision is to create a template and environment that spans Design--Deployment
 
-### Prerequisites
+**Design Creation**  Use tools such as Figma and others to create your design theme.  Utilize variables, styles, color palettes, typography and more.  
 
-- Ensure you have Node.js `v20` installed.
-- Clone this repository to your local machine.
+**Design Elements**  Utilize any popular JS or TS component library with your design tool and target a plain vanilla, responsive, react template for SaaS apps.
+                                       Unstyled or styled components can be used in Figma and in this project.
 
-### Installation
+**Design Prototyping**  Rapidly create a design prototype for clients in Figma and other design apps and prototype it. Export the functionality of the prototype to your own SStemp template.
 
-1. Navigate to the project directory in your terminal.
-2. Run `npm install` to install the necessary dependencies.
-3. Configure your settings in the `.env` file. Refer to the `.env.sample` file for the available settings.
+**Design to Code**
+--Target this SaaS app template and tech stack with your UI designs for rapid dev with or without AI
+--Use AI code gen with your design deployed to SStemp
+--UI design token export from Figma in JSON and CSS
+--UI design export from Figma via Figma API/FigSpec; embed a figma UI design in your app
+--
+**Develop**  
+--Use the generated code as a starting point
+--Communicate app UI changes to designers via Figma and Figma API for real-time updates
 
-### Usage
+**Test**
 
-1. Start the server by running `npm run dev`.
-2. Access the dashboard at http://localhost:3000 in your browser.
-3. Sign up or log in to get started.
+**Deploy**
 
-## Features
+**Tech Stack**
+ React, Tailwind CSS, Next.js.  Flexibility to select your own Component libraries and themes.  Theme switching based on Tailwind CSS.
 
-- **User Authentication:**
+## Getting Started for New Developers
 
-  - Secure user signup and login functionality.
-  - <img width="1470" alt="Screenshot 2024-01-17 at 4 28 26 PM" src="https://github.com/Swanand01/nextjs-dashboard/assets/75439077/f0d6fb6e-db13-40b0-8add-c4b76174e9bb">
-  - <img width="1470" alt="Screenshot 2024-01-17 at 4 28 36 PM" src="https://github.com/Swanand01/nextjs-dashboard/assets/75439077/675b4b95-e3b7-45df-b107-521c5005c79f">
+Coming soon.
 
+The license is MIT.  
+Contributors welcome!
 
-- **Customer Management:**
-
-  - Create, update, and view a comprehensive list of all customers.
-  - <img width="1470" alt="Screenshot 2024-01-17 at 4 26 56 PM" src="https://github.com/Swanand01/nextjs-dashboard/assets/75439077/9e39a79b-9fd3-4fea-b0d0-6ffc72e7f7c8">
-
-
-- **Invoice Management:**
-
-  - Create, update, and view a detailed list of invoices.
-  - <img width="1470" alt="Screenshot 2024-01-17 at 4 26 48 PM" src="https://github.com/Swanand01/nextjs-dashboard/assets/75439077/99bcf5d2-c2a7-41ce-ac08-57211a4408ea">
-
-
-- **At a Glance:**
-  - Track collection and pending amount.
-  - Visualize revenue trends through insightful charts.
-  - Stay up-to-date with the latest invoices at a glance.
-  - <img width="1470" alt="Screenshot 2024-01-17 at 4 26 35 PM" src="https://github.com/Swanand01/nextjs-dashboard/assets/75439077/6dd6c20e-4b81-4881-89a5-f69ae4d1f852">
-
-
-## Technologies Used
-
-**Frontend and Backend:** Next.js with TailwindCSS
-
-**Database:** PostgreSQL
-
-## Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License.
+**Full disclosure**
+--We're in the early stages of validating this framework
+--Its not production ready
+--This is a not for profit project so we work on it when we have time
